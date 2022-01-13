@@ -33,6 +33,19 @@ header .bier a img {
     height: 15rem;
     border-right: 6px;
 }
+header .taal {
+  border-radius: 2rem;
+  background-color: #d99800;
+  margin-top: 1.5rem;
+  margin-left: 5rem;
+  padding: 0.5rem;
+  text-decoration: none;
+  font-size: 1rem;
+  display: flex;
+  color: black;
+  width: 5rem;
+  justify-content: center;
+}
 
 header .wijn a img {
     height: 15rem;
